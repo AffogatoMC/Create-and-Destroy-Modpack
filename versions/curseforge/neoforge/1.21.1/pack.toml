@@ -1,0 +1,16 @@
+name = "Create And Destroy"
+author = "omo50"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e9243c47b2701553cde1fb017ce01bf56561cd524d225e9b4f83d35b648f5093"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.129"
+
+[options]
+acceptable-game-versions = ["neoforge"]
