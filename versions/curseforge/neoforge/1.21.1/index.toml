@@ -249,6 +249,16 @@ hash = "c5df6a939b23ea1dc348989e5185d7ad7d7e65557531e1a1ec16cb57ab8f9b29"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "18c191ac6de4259bd428d691ca21b819a830234773101771ff1c28487b3e1195"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "9c0bd9d64147f7e7e8b358a7bbbb390fa24d5ae051c1879dbc6c504035c70bdc"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "d087c8e1cff4dc7f763401dd06eb0c1141ed12fa990a9e39ec7f034e967b87d2"
 metafile = true
@@ -259,8 +269,18 @@ hash = "e49fcd843dbac037425b680bfcb07943bfaf5af262c105f16b53ba0e1d0cb7b9"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "09f8e2af6cb0a5151a44390389ec62012296ec069dd21eb418079e17b48c2f18"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "3dff3027280345cc6f6e2626a8d3b476896ef4c2b1cf6ab72291fe347447f71b"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "dbf433daaf5ca87264ed08d1dfa2f67da701a8fbe3e1b698295e762b57908047"
 metafile = true
 
 [[files]]
@@ -281,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "9c963b5376ce2d57af3c8df18c37c3c90c9c7eec25d08a97d2233d09035dca2b"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "d657dd7d35248a9d0fb8dfae1f751202d8fb31e0bc3c41ba5ebdf77e159070f0"
 metafile = true
 
 [[files]]
@@ -329,6 +354,16 @@ hash = "cfbca5b41696fc6ce61393a2064a1d96cc72baf00117688ecfd8e19272eda2cc"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "e1646cf433abe533dce054c680d225391d3926296657ac8965cba50fbd3b7218"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "fe213ae1ba13c8cf1f6234cd4f36d181bf02fdfbc5389361ce64bb253884d933"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "3d38d89c5adddec6a9c1352e3c4ced3f0c80639f1f11da237aac883e629998e8"
 metafile = true
@@ -374,6 +409,11 @@ hash = "996bdd8de2f3959c2ab61f03d0c86cfe131d54c6171407cbd52044f0c3104b85"
 metafile = true
 
 [[files]]
+file = "mods/moogs-end-structures.pw.toml"
+hash = "56fbbe8d169edd6c82d58665bd5a40786abedc06abd45175607a51e47699bca0"
+metafile = true
+
+[[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "babefadc901363105bba52595cae16ad77adfee445e987c90378912a401b95c3"
 metafile = true
@@ -394,6 +434,21 @@ hash = "71a083c59d65f0e0f818a86e5d53f13e56becc754f663066a9e3840cea0909ec"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "d873185addef9f063fca81e20e3a1eb98376f2056a7e813604fa7d3bd0c54562"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "c6bffbafc6773b2624fc4ccfacb93eb381f868220109627caf0b74603bb250f3"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "bee6d3dd094cf4684dee78afd84a47cd168ef0cae02a64bd7d2486fe781a3156"
+metafile = true
+
+[[files]]
 file = "mods/paperdoll.pw.toml"
 hash = "fbf8d42194597220b64c37d395d485f0e71b94e85a4c674d3dd774d24fd749de"
 metafile = true
@@ -406,6 +461,16 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5ccfe77f076078daa3303727952ad095a8df4d1835b8e8072d53aedc43f15614"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "dfb0f7f0e79f25695ba40da7367ae4ee91c8abc3547845d117a47ecd6844b3e7"
 metafile = true
 
 [[files]]
@@ -464,6 +529,16 @@ hash = "34314db089fe3987f65750e70a3f023e543fd32d2e4a1b2e594e00bd5ed4fa10"
 metafile = true
 
 [[files]]
+file = "mods/stony-cliffs-are-cool.pw.toml"
+hash = "4acd1fcb2aff2eebf7299268de7eb74af055d50918d9202fcb4a2522512fb2a4"
+metafile = true
+
+[[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "bcc9f40db3622589ae22f7bf706c08554cd7aba8f78d7abae1aa3e4f9f7be62f"
+metafile = true
+
+[[files]]
 file = "mods/structory.pw.toml"
 hash = "7bf1c92b936f1a0a887cfadfeeade48e2e67ccdf082ecdbba9758ee650446581"
 metafile = true
@@ -504,6 +579,16 @@ hash = "2ce88d616a4a4c4030bdcaa478adc5afae24c7b901375ae366aceb2d7f43e812"
 metafile = true
 
 [[files]]
+file = "mods/unilib.pw.toml"
+hash = "8805f378719483ade0dbc81f59ad7939b1f39678bfe42c555cf5622ba8dbebd2"
+metafile = true
+
+[[files]]
+file = "mods/variants-and-ventures.pw.toml"
+hash = "a873d64d40d98d57d2c742c636b04d534f9573e781861fb3c445c8cf33aac0ed"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "1139403fa449692a4cea41e24328533ccae30d0cd92c8e95fef43109ff72b490"
 metafile = true
@@ -541,6 +626,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons-neoforge.pw.toml"
 hash = "b6527599723cd47781e0e2eb029ba1858ecd000e5d6a972c5497838b6fb967bb"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island-neoforge.pw.toml"
+hash = "cc41580a5c56304ddb348f65c23baa0bbda2b89a56535a81d045ae49d372eec3"
 metafile = true
 
 [[files]]
