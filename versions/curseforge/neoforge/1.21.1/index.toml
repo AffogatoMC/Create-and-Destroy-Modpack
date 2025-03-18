@@ -254,13 +254,8 @@ hash = "18c191ac6de4259bd428d691ca21b819a830234773101771ff1c28487b3e1195"
 metafile = true
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "9c0bd9d64147f7e7e8b358a7bbbb390fa24d5ae051c1879dbc6c504035c70bdc"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
-hash = "d087c8e1cff4dc7f763401dd06eb0c1141ed12fa990a9e39ec7f034e967b87d2"
+hash = "db80554e5b4457c54b666b445f9aa9e5cf5635d406518e657cab777a00e6ef5e"
 metafile = true
 
 [[files]]
@@ -279,8 +274,8 @@ hash = "3dff3027280345cc6f6e2626a8d3b476896ef4c2b1cf6ab72291fe347447f71b"
 metafile = true
 
 [[files]]
-file = "mods/croptopia.pw.toml"
-hash = "dbf433daaf5ca87264ed08d1dfa2f67da701a8fbe3e1b698295e762b57908047"
+file = "mods/cubes-without-borders.pw.toml"
+hash = "9441e0a305d19725ed73bfe5199263bc1617e7fffc67bd56534ef89a294535ed"
 metafile = true
 
 [[files]]
@@ -290,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "1751576548c9e0a87aa407a1526f45301637de78a5c4753ab1ca4ad6bdbe4207"
+hash = "1fd217d79f849a8bdef3977de94a70282dae88a35f2985aabfc6a47e90a53439"
 metafile = true
 
 [[files]]
@@ -306,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "d657dd7d35248a9d0fb8dfae1f751202d8fb31e0bc3c41ba5ebdf77e159070f0"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "b730d5e5a6f1852d338e53599c3f5e9414a3309963c72b3faca0beb3efec0a22"
 metafile = true
 
 [[files]]
@@ -350,12 +350,12 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "cfbca5b41696fc6ce61393a2064a1d96cc72baf00117688ecfd8e19272eda2cc"
+hash = "72cb53d295bb01051b73e24815d38442dbdcdcb327c8207c0e7570bb2c3856f2"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "e1646cf433abe533dce054c680d225391d3926296657ac8965cba50fbd3b7218"
+hash = "629b53312afe295222bc721338a3189844157971767e377316492068c453abf4"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ec10cc41e3883301f419c645afcd64fd21b50718414613cb5b1cd9073dc86540"
+hash = "908cbf89e774b114d1dc3aef4806c9d2d782cfd314be001718bb690af9b074a8"
 metafile = true
 
 [[files]]
@@ -435,22 +435,17 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "d873185addef9f063fca81e20e3a1eb98376f2056a7e813604fa7d3bd0c54562"
+hash = "f62a748fa3709be9f925285627a6bec6501fc536a0482087c0efdc299f1212c0"
 metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "c6bffbafc6773b2624fc4ccfacb93eb381f868220109627caf0b74603bb250f3"
+hash = "3d169caaff08404ff8b5c89d04629032a1b98682201532677c0cd2c44dc90ffe"
 metafile = true
 
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "bee6d3dd094cf4684dee78afd84a47cd168ef0cae02a64bd7d2486fe781a3156"
-metafile = true
-
-[[files]]
-file = "mods/paperdoll.pw.toml"
-hash = "fbf8d42194597220b64c37d395d485f0e71b94e85a4c674d3dd774d24fd749de"
 metafile = true
 
 [[files]]
@@ -460,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "5ccfe77f076078daa3303727952ad095a8df4d1835b8e8072d53aedc43f15614"
+hash = "4c34b711b80bdb1638327927a4cb47e539b3897c26c8f36a1bf5fb588dcddde9"
 metafile = true
 
 [[files]]
@@ -490,12 +485,17 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "a145c189647c639ddb5d6ea0efb9042506fe398f0e7c458746ad8b85ed58f649"
+hash = "261f47d30ce683ad9f8187fa611c141ecf7b5416729942ec43d0f9cc7bf629df"
 metafile = true
 
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "eb438b9d4a49c0cc65560cdc295bf927cabc6f34319375a0cfbf3aece662add8"
+metafile = true
+
+[[files]]
+file = "mods/simple-planes.pw.toml"
+hash = "1c676e168d5e1f21446922b8e330921afcf8f4eb2c479a175be00eefee4b4591"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "34314db089fe3987f65750e70a3f023e543fd32d2e4a1b2e594e00bd5ed4fa10"
+hash = "4019a93580a45f233660c63a755ac261fa53d10204bb6654bcbb41518cf092de"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "51579c41cb422e211823df47fba581623854b189a600f013fb7278862c6a2900"
+hash = "fbba860233c23cd5964c83a88baacee73ebf49d5c1c947f949180663fad8443b"
 metafile = true
 
 [[files]]
@@ -579,16 +579,6 @@ hash = "2ce88d616a4a4c4030bdcaa478adc5afae24c7b901375ae366aceb2d7f43e812"
 metafile = true
 
 [[files]]
-file = "mods/unilib.pw.toml"
-hash = "8805f378719483ade0dbc81f59ad7939b1f39678bfe42c555cf5622ba8dbebd2"
-metafile = true
-
-[[files]]
-file = "mods/variants-and-ventures.pw.toml"
-hash = "a873d64d40d98d57d2c742c636b04d534f9573e781861fb3c445c8cf33aac0ed"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "1139403fa449692a4cea41e24328533ccae30d0cd92c8e95fef43109ff72b490"
 metafile = true
@@ -600,12 +590,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a811471f504e5d90dd2310e96e9b16f1f3449e67c0331f3bbf7d2e08f53cf0e0"
+hash = "cca27078b7075d2dd7bf5f1a010395c799cf772cdf2a12bf51e94e2d91682c6a"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "69aaced0370fb3bc13d316228459b3a974d5f7df1e95d088be91e6fc3eeb9580"
+hash = "6183099f1a9752a330400b3bfa57050fcfd00406cfddf3deb9a503b9981cf34e"
 metafile = true
 
 [[files]]
@@ -620,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples-neoforge.pw.toml"
-hash = "71be9c07be2bddc714966397c8c24a0dbb56c74c3215222d3084ec12ad7039e6"
+hash = "9d850f339f573961ceffa688f221accedb8c0c36746a5377df872a110f39e3e5"
 metafile = true
 
 [[files]]
@@ -630,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-end-island-neoforge.pw.toml"
-hash = "cc41580a5c56304ddb348f65c23baa0bbda2b89a56535a81d045ae49d372eec3"
+hash = "2e763194942381a7829dc6eb0503930a97408ee31ad7d05c77c6d094499e40d3"
 metafile = true
 
 [[files]]
@@ -645,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses-neoforge.pw.toml"
-hash = "f31730c0959a26773d0f05b9603b30bf43d6872bb7e46f45dff81b90d99547e6"
+hash = "296d956a1981fe86e54e58f28dc14a9202400766358959ef0ea77363de6c3678"
 metafile = true
 
 [[files]]
@@ -655,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds-neoforge.pw.toml"
-hash = "7a4c5666b0592f4d4ae3ffdb79f365a64fd53cb0de496ae125fb4b88630d32dc"
+hash = "0a47325379d60e0886ab96a8c247ae8820bcb1a4a8ae53d855a50a99f6cab4ca"
 metafile = true
 
 [[files]]
