@@ -1,6 +1,6 @@
 name = "Create And Destroy"
 author = "omo50"
-version = "1.0.0"
+version = "1.0.0+mc1.21.1+neoforge"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,7 +10,7 @@ hash = "ade29227aa13c1df37aba5e61f7e3aa194f7ff57e5f794a3fcccb76b36d659d8"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.129"
+neoforge = "21.1.144"
 
 [options]
 acceptable-game-versions = ["neoforge"]
